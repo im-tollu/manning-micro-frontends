@@ -1,3 +1,3 @@
 <template>
-  <h1>Welcome to Red records!</h1>
+  <h1>Welcome to Red Records!</h1>
 </template>
