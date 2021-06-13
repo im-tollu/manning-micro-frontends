@@ -2,7 +2,6 @@
   "name": "y",
   "version": "1.0.0",
   "description": "Serves content for micro-frontends app",
-  "type": "module",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
