@@ -2,11 +2,15 @@
   "name": "y",
   "version": "1.0.0",
   "description": "Serves content for micro-frontends app",
+  "type": "module",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
