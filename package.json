@@ -1,0 +1,21 @@
+{
+  "name": "manning-micro-frontends",
+  "version": "1.0.0",
+  "description": "Study repo for the Manning live project",
+  "main": "index.js",
+  "scripts": {
+    "dev:welcome": "cd welcome && npm run serve",
+    "dev:music": "cd music && npm run start",
+    "dev:bootstrap": "cd bootstrap && parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/im-tollu/manning-micro-frontends.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/im-tollu/manning-micro-frontends/issues"
+  },
+  "homepage": "https://github.com/im-tollu/manning-micro-frontends#readme"
+}
