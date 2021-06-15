@@ -9,3 +9,4 @@ Study repo for the Manning live project
 * Welcome single page application.
 * Music single page application.
 * Bootstrap, the micro frontend orchestrator.
+* Server, to serve all the previous frontend subprojects.
